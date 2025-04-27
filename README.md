@@ -8,7 +8,7 @@ The project focuses on preprocessing text data, building custom models, and comp
 ## Project Details
 Dataset: IMDB Movie Review Dataset (from Huggingface datasets library)
 
-**Data:**
+**Data**
 - 25,000 samples for training
 - 25,000 samples for testing
 - Each sample contains text and label (0 = negative, 1 = positive)
