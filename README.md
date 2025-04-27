@@ -14,6 +14,7 @@ Dataset: IMDB Movie Review Dataset (from Huggingface datasets library)
 - Each sample contains text and label (0 = negative, 1 = positive)
 
 **Workflow**
+
 Preprocessing
 - Remove punctuation and numbers
 - Convert text to lowercase
